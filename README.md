@@ -1,4 +1,4 @@
-Les scripts SQL pour insérer les bouzins dans la DB : <br>
+<h1>Les scripts SQL pour insérer les bouzins dans la DB</h1>
 
 <p>Pour enter un nouveau mot-clé</p>
 <p>INSERT INTO `mc` (`id`, `mc`) VALUES (NULL, 'mot_clé');</p><br>
